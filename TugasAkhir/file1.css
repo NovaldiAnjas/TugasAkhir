@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+#header{
+  padding: 20px 0;
+  background-image: url('bg2.jpg');
+  background-position: center;
+  background-size: 2700px;
+}
+.teks{
+  padding-top: 50px;
+  margin-left: 90px;
+}
+h1{
+  font-size: 35px;
+  color: white;
+}
+.btn{
+  padding: 13px 30px;
+  border: 2px;
+  background: #0779e4;
+  color: white;
+  border-radius: 5px;
+  margin-top: 15px;
+  margin: 10px;
+  cursor: pointer;
+}
+.nav ul li{
+  list-style: none;
+  margin: 0 20px;
+  color: white;
+}
+.nav ul{
+  display: inline-flex;
+  margin: 30px;
+  padding-left: 50px;
+}
+.btn a{
+  text-decoration: none;
+}
+#pertanyaan a{
+  text-decoration: none;
+}
+#pertanyaan h1{
+  padding-top: 18px;
+  font-size: 30px !important;
+}
+#pertanyaan label{
+  font-size: 20px;
+  color: white;
+}
+#pertanyaan{
+  padding: 80px;
+  background: #142850;
+}
+
